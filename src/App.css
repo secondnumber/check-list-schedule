@@ -1,0 +1,9 @@
+.wrapper {
+    max-width: 80vw;
+    margin: 0 auto;
+}
+
+.input-group-text {
+    text-align: left;
+    white-space: normal;
+}
