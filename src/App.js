@@ -205,18 +205,6 @@ const App = () => {
                 <input type="checkbox" className="mr-3" value={10} onClick={(e) => {handleChecked(e)}}/>
                 Дополнительное усовершенствование
             </div>
-            <div className="input-group-text mb-1">
-                <input type="checkbox" className="mr-3" value={10} onClick={(e) => {handleChecked(e)}}/>
-                Дополнительное усовершенствование
-            </div>
-            <div className="input-group-text mb-1">
-                <input type="checkbox" className="mr-3" value={10} onClick={(e) => {handleChecked(e)}}/>
-                Дополнительное усовершенствование
-            </div>
-            <div className="input-group-text mb-1">
-                <input type="checkbox" className="mr-3" value={10} onClick={(e) => {handleChecked(e)}}/>
-                Дополнительное усовершенствование
-            </div>
             <h3>Использованние технологии</h3>
             <div className="input-group-text mb-1">
                 <input type="checkbox" className="mr-3" value={30} onClick={(e) => {handleChecked(e)}}/>
